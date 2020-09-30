@@ -4,6 +4,7 @@ raven==2.0.10
 
 requests==0.14.0
 requests-oauth==0.4.1
+requests-oauth==0.4.1
 
 us==0.7
 census==0.5
